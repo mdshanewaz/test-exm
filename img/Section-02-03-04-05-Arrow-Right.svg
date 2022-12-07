@@ -1,0 +1,37 @@
+<svg width="36" height="8" viewBox="0 0 36 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Arrow</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-18076 -14658)">
+<rect x="18076" y="14658" width="36" height="8" fill="#E5E5E5"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 16760.6 11682.5L 18200.6 11682.5L 18200.6 14820.5L 16760.6 14820.5L 16760.6 11682.5Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="8" clip-path="url(#clip-0)">
+<path d="M 16760.6 11682.5L 18200.6 11682.5L 18200.6 14820.5L 16760.6 14820.5L 16760.6 11682.5Z" fill="#F7F7F7"/>
+<g id="Group 2">
+<g id="Group">
+<g id="Rectangle 6">
+<use xlink:href="#path0_fill" transform="translate(16760.6 14470.7)" fill="#282828"/>
+</g>
+<g id="Rectangle 5.1">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(17806.4 14640.8)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(17806.4 14640.8)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Arrow">
+<use xlink:href="#path3_stroke" transform="matrix(1 -2.44929e-16 2.44929e-16 1 18076.7 14661.9)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 1440 0L 1440 349.572L 0 349.572L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 327 0L 327 44.0002L 0 44.0002L 0 0Z"/>
+<path id="path2_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 327 0L 328 0L 328 -1L 327 -1L 327 0ZM 327 44.0002L 327 45.0002L 328 45.0002L 328 44.0002L 327 44.0002ZM 0 44.0002L -1 44.0002L -1 45.0002L 0 45.0002L 0 44.0002ZM 0 1L 327 1L 327 -1L 0 -1L 0 1ZM 326 0L 326 44.0002L 328 44.0002L 328 0L 326 0ZM 327 43.0002L 0 43.0002L 0 45.0002L 327 45.0002L 327 43.0002ZM 1 44.0002L 1 0L -1 0L -1 44.0002L 1 44.0002Z"/>
+<path id="path3_stroke" d="M 34.21 0.353553C 34.4053 0.158291 34.4053 -0.158291 34.21 -0.353553L 31.028 -3.53553C 30.8328 -3.7308 30.5162 -3.7308 30.3209 -3.53553C 30.1256 -3.34027 30.1256 -3.02369 30.3209 -2.82843L 33.1493 0L 30.3209 2.82843C 30.1256 3.02369 30.1256 3.34027 30.3209 3.53553C 30.5162 3.7308 30.8328 3.7308 31.028 3.53553L 34.21 0.353553ZM 0 0.5L 33.8564 0.5L 33.8564 -0.5L 0 -0.5L 0 0.5Z"/>
+</defs>
+</svg>
